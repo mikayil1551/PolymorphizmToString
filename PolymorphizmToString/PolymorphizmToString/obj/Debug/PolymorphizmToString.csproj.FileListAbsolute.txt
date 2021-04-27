@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\bin\Debug\PolymorphizmToString.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\PolymorphizmToString\PolymorphizmToString\obj\Debug\PolymorphizmToString.pdb
